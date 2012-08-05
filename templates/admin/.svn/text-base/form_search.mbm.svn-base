@@ -1,0 +1,7 @@
+<!-- Search Box -->
+<div id="mbm-searchbox" class="mbm-inset">
+    <form action="">
+        <input type="text" class="mbm-search-input" />
+        <input type="submit" class="mbm-search-submit" />
+    </form>
+</div>

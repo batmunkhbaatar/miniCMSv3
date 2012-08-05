@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations
+END
+AnnotationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/AnnotationException.php
+END
+Annotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/Annotation.php
+END
+CachedReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/CachedReader.php
+END
+AnnotationReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/AnnotationReader.php
+END
+DocParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/DocParser.php
+END
+Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/Reader.php
+END
+AnnotationRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/AnnotationRegistry.php
+END
+IndexedReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/IndexedReader.php
+END
+PhpParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/PhpParser.php
+END
+DocLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/DocLexer.php
+END
+FileCacheReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/FileCacheReader.php
+END
+SimpleAnnotationReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Annotations/SimpleAnnotationReader.php
+END

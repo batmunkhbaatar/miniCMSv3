@@ -1,0 +1,77 @@
+div#mbm-login
+{
+	background:url(../../images/admin/dark-bg.png);
+	width:288px;
+	height:218px;
+	margin:auto;
+	position:relative;
+	padding:12px 16px;
+	
+	position:relative;
+	top:50%;
+	margin-top:-122px;
+	border-top:2px solid #535353;
+	
+	/* CSS 3 */
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	-o-border-radius:4px;
+	-khtml-border-radius:4px;
+	border-radius:4px;
+}
+
+div#mbm-login h1
+{
+	color:#ffffff;
+	padding:0 8px 8px 8px;
+	font-size:18px;
+	margin:0;
+	position:relative;
+	background:url(../../images/admin/login-stitch.png) repeat-x left bottom;
+}
+
+div#mbm-login .mbm-login-lock
+{
+	background:url(../../images/admin/login-circle.png) no-repeat center center;
+	position:absolute;
+	padding:8px;
+	right:-10px;
+	top:-10px;
+}
+
+div#mbm-login form
+{
+	background:url(../../images/admin/login-stitch.png) repeat-x left bottom;
+}
+
+div#mbm-login .mbm-form-row
+{
+	padding-left:0;
+	padding-right:0;
+}
+
+div#mbm-login input.mbm-login-username
+{
+	background-image:url(../icons/16/user.png);
+	background-repeat:no-repeat;
+	background-position:8px center;
+}
+
+div#mbm-login input.mbm-login-password
+{
+	background-image:url(../icons/16/key.png);
+	background-repeat:no-repeat;
+	background-position:8px center;
+}
+
+div#mbm-login input.mbm-login-username, 
+div#mbm-login input.mbm-login-password
+{
+	padding:8px 8px 8px 32px;
+	border:1px solid #323232;
+}
+
+div#mbm-login input.mbm-login-button
+{
+	width:100%;
+}

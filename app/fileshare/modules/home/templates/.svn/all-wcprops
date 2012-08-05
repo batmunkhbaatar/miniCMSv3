@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/miniCMSv3/!svn/ver/23/app/fileshare/modules/home/templates
+END
+index.mbm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/23/app/fileshare/modules/home/templates/index.mbm
+END
+dl.mbm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/miniCMSv3/!svn/ver/21/app/fileshare/modules/home/templates/dl.mbm
+END
+test.mbm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/miniCMSv3/!svn/ver/23/app/fileshare/modules/home/templates/test.mbm
+END

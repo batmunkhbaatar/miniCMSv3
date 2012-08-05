@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Encoder
+END
+QpEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Encoder/QpEncoder.php
+END
+Rfc2231Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Encoder/Rfc2231Encoder.php
+END
+Base64Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Encoder/Base64Encoder.php
+END

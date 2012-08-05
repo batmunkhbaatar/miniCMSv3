@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/miniCMSv3/!svn/ver/29/library/mbm_classes/Config
+END
+Module.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/miniCMSv3/!svn/ver/23/library/mbm_classes/Config/Module.class.php
+END
+Template.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/miniCMSv3/!svn/ver/29/library/mbm_classes/Config/Template.class.php
+END
+Action.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/miniCMSv3/!svn/ver/23/library/mbm_classes/Config/Action.class.php
+END
+User.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/8/library/mbm_classes/Config/User.class.php
+END
+App.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/29/library/mbm_classes/Config/App.class.php
+END

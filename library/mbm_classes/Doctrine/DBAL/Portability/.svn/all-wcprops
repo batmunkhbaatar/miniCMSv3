@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Portability
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Portability/Connection.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Portability/Statement.php
+END

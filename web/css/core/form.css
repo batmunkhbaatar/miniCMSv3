@@ -1,0 +1,540 @@
+.mbm-form
+{
+	clear:both;
+	display:block;
+}
+
+.mbm-form .mbm-form-row
+{
+	padding:12px 24px;
+}
+
+.mbm-form .mbm-button-row.left
+{
+	text-align:left;
+}
+
+.mbm-form .mbm-button-row
+{
+	padding:16px 24px;
+	border-top:1px solid #bcbcbc;
+	text-align:right;
+	background:url(../../images/admin/inset.png);
+}
+
+.mbm-form .mbm-form-item
+{
+	min-height:34px;
+	height:34px;
+	height:auto !important
+}
+
+.mbm-form fieldset
+{
+	margin:0;
+}
+
+.mbm-form ul.mbm-form-list, 
+.mbm-form ul.mbm-form-list li
+{
+	margin:0;
+	list-style:none;
+}
+
+.mbm-form fieldset
+{
+	border-top:1px dotted #bcbcbc;
+	padding-top:16px;
+}
+
+.mbm-form fieldset legend
+{
+	margin-left:24px;
+	padding:0 4px;
+	border:1px dotted #bcbcbc;
+}
+
+.mbm-form .mbm-form-inline label
+{
+	padding-top:7px;
+}
+
+.mbm-form label
+{
+	padding-bottom:7px;
+	cursor:pointer;
+}
+
+.mbm-form label span.required
+{
+	color:#FF0000;
+}
+
+/* Input Styles */
+
+.mbm-form .mbm-form-item select, 
+.mbm-form .mbm-form-item textarea, 
+.mbm-form .mbm-form-item .mbm-textinput, 
+.mbm-form .mbm-form-item.large select, 
+.mbm-form .mbm-form-item.large textarea, 
+.mbm-form .mbm-form-item.large .mbm-textinput
+{
+	width:100%;
+}
+
+.mbm-form .mbm-form-item.medium select, 
+.mbm-form .mbm-form-item.medium textarea, 
+.mbm-form .mbm-form-item.medium .mbm-textinput
+{
+	width:75%;
+}
+
+.mbm-form .mbm-form-item.small select, 
+.mbm-form .mbm-form-item.small textarea, 
+.mbm-form .mbm-form-item.small .mbm-textinput
+{
+	width:55%;
+}
+
+.mbm-form select, 
+.mbm-form textarea, 
+.mbm-form .mbm-textinput, 
+.mbm-form .file
+{
+	border:1px solid #c5c5c5;
+	padding:6px 7px;
+	color:#323232;
+	margin:0;
+	background-color:#ffffff;
+	outline:none;
+	
+	/* CSS 3 */
+	
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	-o-border-radius:4px;
+	-khtml-border-radius:4px;
+	border-radius:4px;
+	
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-khtml-box-sizing: border-box;
+	
+	-moz-box-shadow:inset 0px 1px 3px rgba(128, 128, 128, 0.1);
+	-o-box-shadow:inset 0px 1px 3px rgba(128, 128, 128, 0.1);	
+	-webkit-box-shadow:inset 0px 1px 3px rgba(128, 128, 128, 0.1);
+	-khtml-box-shadow:inset 0px 1px 3px rgba(128, 128, 128, 0.1);
+	box-shadow:inset 0px 1px 3px rgba(128, 128, 128, 0.1);
+}
+
+.mbm-form select:disabled, 
+.mbm-form textarea:disabled, 
+.mbm-form .mbm-textinput:disabled
+{
+	background:#f0f0f0;
+}
+
+.mbm-form select.error, 
+.mbm-form textarea.error, 
+.mbm-form .mbm-textinput.error
+{
+	border-color:#eb979b;
+}
+
+/* Placeholder Text */
+
+.mbm-form .placeholder
+{
+  color: #aaa;
+}
+
+/* Inline Form Elements */
+
+.mbm-form .mbm-form-inline .mbm-form-item
+{
+	margin-left:136px;
+}
+
+.mbm-form .mbm-form-inline label
+{
+	width:120px;
+	display:block;
+	float:left;
+	margin-right:16px;
+}
+
+/* Block Form Elements */
+
+.mbm-form .mbm-form-block label, 
+.mbm-form .mbm-form-block .mbm-form-item
+{
+	display:block;
+	width:100%;
+	margin:0;
+	float:none;
+}
+
+/* Form List */
+
+.mbm-form .mbm-form-inline ul.mbm-form-list
+{
+	float:left;
+	width:68%;
+	margin-top:4px;
+}
+
+.mbm-form .mbm-form-inline .mbm-form-item ul.mbm-form-list
+{
+	width:100%;
+}
+
+.mbm-form ul.mbm-form-list, 
+.mbm-form .mbm-form-block ul.mbm-form-list
+{
+	display:block;
+	width:100%;
+}
+
+.mbm-form ul.mbm-form-list.inline li
+{
+	float:left;
+	margin-right:10px;
+}
+
+.mbm-form ul.mbm-form-list li label
+{
+	width:auto;
+	float:none;
+	margin:0;
+	padding:0;
+	display:inline;
+	vertical-align:middle;
+}
+
+.mbm-form ul.mbm-form-list li input
+{
+	vertical-align:middle;
+}
+
+/* Textarea */
+
+.mbm-form textarea
+{
+	height:10em;
+	resize:none;
+}
+
+/* Form Clearfix */
+
+.mbm-form .mbm-form-row:before,
+.mbm-form .mbm-form-row:after
+{
+	content: '.';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	font-size: 0;
+	line-height: 0;
+	width: 0;
+	height: 0;
+}
+
+.mbm-form .mbm-form-row:after
+{
+	clear: both;
+}
+
+.mbm-form .mbm-form-row
+{
+	zoom: 1;
+}
+
+/* Messages */
+
+.mbm-form-message
+{	
+	font-size:12px;
+	border-bottom:1px solid #d2d2d2;
+	padding:15px 8px 15px 45px;
+	position:relative;
+	vertical-align:middle;
+	background:#f8f8f8;
+}
+
+.mbm-form-message p, 
+.mbm-form-message ul, 
+.mbm-form-message ol
+{
+	margin:0;
+}
+
+.mbm-form-message ul li, 
+.mbm-form-message ol li
+{
+	list-style-position:inside;
+	list-style-type:inherit;
+	margin:0;
+}
+
+.mbm-form-message .mbm-message-close
+{
+	background:url(../../images/mbm-close-btn.html) no-repeat left center;
+	width:18px;
+	height:18px;
+	display:block;
+	position:absolute;
+	right:10px;
+	top:11px;
+	cursor:pointer;
+}
+
+.mbm-form-message.error
+{
+	background-color:#ffcbca;
+	background-image:url(../../images/admin/message-error.png);
+	background-position:12px 12px;
+	background-repeat:no-repeat;
+	border-color:#eb979b;
+	color:#9b4449;
+}
+
+.mbm-form-message.success
+{
+	background-color:#e1f1c0;
+	background-image:url(../../images/admin/message-success.png);
+	background-position:12px 12px;
+	background-repeat:no-repeat;
+	border-color:#b5d56d;
+	color:#62a426;
+}
+
+.mbm-form-message.warning
+{
+	background-color:#fef0b1;
+	background-image:url(../../images/admin/message-warning.png);
+	background-position:12px 12px;
+	background-repeat:no-repeat;
+	border-color:#ddca76;
+	color:#a98b15;
+}
+
+.mbm-form-message.info
+{
+	background-color:#bce5f7;
+	background-image:url(../../images/admin/message-info.png);
+	background-position:12px 12px;
+	background-repeat:no-repeat;
+	border-color:#a6d3e8;
+	color:#11689E;
+}
+
+.mbm-form .mbm-form-item .mbm-error, 
+.mbm-form .mbm-form-item label.error, 
+.mbm-form .mbm-form-item span.error, 
+.mbm-form .mbm-form-item div.error
+{
+	font-size:11px;
+	display:block;
+	width:auto;
+	float:none;
+	margin:-4px 0 0 0;
+	padding:10px 8px 6px 8px;
+	cursor:default;
+	background:#c83139;
+	color:#ffffff;
+	
+	/* CSS 3 */
+	
+	-moz-border-radius:0 0 4px 4px;
+	-webkit-border-radius:0 0 4px 4px;
+	-o-border-radius:0 0 4px 4px;
+	-khtml-border-radius:0 0 4px 4px;
+	border-radius:0 0 4px 4px;
+}
+
+/* File Style */
+
+.mbm-filestyle
+{
+	padding-right:87px !important;
+}
+
+.feat
+{
+	outline:none;
+	cursor:pointer;
+	background:#e0e0e0 url(../../images/admin/file-btn.png) no-repeat center center;
+	color:#666666;
+	height:28px;
+	border:1px solid #ababab;
+	margin-left:-80px;
+	text-align:center;
+	
+	/* CSS 3 */
+	
+	-webkit-border-radius:0 3px 3px 0;
+	-moz-border-radius:0 3px 3px 0;
+	-o-border-radius:0 3px 3px 0;
+	-khtml-border-radius:0 3px 3px 0;
+	border-radius:0 3px 3px 0;
+	
+	-webkit-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	-moz-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	-o-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	-khtml-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+}
+
+.feat:active
+{
+	-webkit-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	-moz-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	-o-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	-khtml-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+.feat .mbm-filestyle
+{
+	padding:2px 0 !important;
+}
+
+/* Color Picker */
+
+.mbm-colorpicker
+{
+	background-image:url(../../images/admin/cpicker.png);
+	background-repeat:no-repeat;
+	background-position:right center;
+	
+	width:150px !important;
+	padding-right:32px !important;
+}
+
+/* Dual List Box */
+
+div.mbm-dualbox
+{
+	position:relative;
+}
+
+div.mbm-dualbox .countLabel
+{
+	margin-top:4px;
+	display:block;
+}
+
+div.mbm-dualbox .mbm-dualbox-col1, 
+div.mbm-dualbox .mbm-dualbox-col2,  
+div.mbm-dualbox .mbm-dualbox-col3
+{
+	width:40%;
+	float:left;
+}
+
+div.mbm-dualbox .mbm-dualbox-col2
+{
+	width:20%;
+	text-align:center;
+	position:relative;
+	margin-top:150px;
+}
+
+div.mbm-dualbox .mbm-dualbox-col2 button
+{
+	width:32px;
+	height:32px;
+}
+
+div.mbm-dualbox .mbm-dualbox-filter
+{
+	margin-bottom:10px;
+}
+
+div.mbm-dualbox .mbm-dualbox-filter label
+{
+	display:block;
+}
+
+div.mbm-dualbox .mbm-dualbox-filter .mbm-textinput
+{
+	float:left;
+	margin-right:-32px;
+	padding-right:36px;
+}
+
+div.mbm-dualbox .mbm-dualbox-filter button
+{
+	float:left;
+	margin:0;
+	width:32px;
+	
+	/* CSS 3 */
+	
+	-webkit-border-radius:0 3px 3px 0;
+	-moz-border-radius:0 3px 3px 0;
+	-o-border-radius:0 3px 3px 0;
+	-khtml-border-radius:0 3px 3px 0;
+	border-radius:0 3px 3px 0;
+}
+
+div.mbm-dualbox button
+{
+	outline:none;
+	font-size:11px;
+	margin:2px;
+	height:30px;
+	text-align:center;
+	line-height:16px;
+	cursor:pointer;
+	
+	background-color:#e0e0e0;
+	color:#666666;
+	border:1px solid #ababab;
+	font-family:Tahoma, Arial, Helvetica, sans-serif;
+	
+	/* CSS 3 */
+	
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	-o-border-radius:3px;
+	-khtml-border-radius:3px;
+	border-radius:3px;
+	
+	-webkit-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	-moz-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	-o-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	-khtml-box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+	box-shadow:inset 0px 1px 0px rgba(255, 255, 255, 0.3);
+}
+
+div.mbm-dualbox button:active
+{
+	-webkit-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	-moz-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	-o-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	-khtml-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+	box-shadow:0px 1px 0px rgba(255, 255, 255, 0.2), inset 0px 0px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+@media only screen and (max-width: 760px) {
+	/* Inline Form Elements */
+	
+	.mbm-form .mbm-form-inline label, 
+	.mbm-form .mbm-form-inline .mbm-form-item
+	{
+		display:block;
+		width:100%;
+		margin:0;
+		float:none;
+	}
+	
+	.mbm-form .mbm-form-inline ul.mbm-form-list
+	{
+		float:none;
+		width:auto;
+		display:block;
+	}
+}

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/miniCMSv3/!svn/ver/23/app/fileshare/config
+END
+config.security.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/11/app/fileshare/config/config.security.php
+END
+config.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/miniCMSv3/!svn/ver/23/app/fileshare/config/config.view.php
+END
+config.main.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/miniCMSv3/!svn/ver/15/app/fileshare/config/config.main.php
+END

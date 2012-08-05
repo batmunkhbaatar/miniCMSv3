@@ -1,0 +1,154 @@
+<!-- User Area Wrapper -->
+<div id="mbm-user-tools" class="clearfix">
+
+    <!-- User Notifications -->
+    <div id="mbm-user-notif" class="mbm-dropdown-menu">
+        <a href="#" class="mbm-icon icon-24-alert-2 mbm-dropdown-trigger">Notifications</a>
+        <span class="mbm-dropdown-notif" id="NOTIFICATION_TOTAL">-</span>
+        <div class="mbm-dropdown-box">
+            <div class="mbm-dropdown-content">
+                <ul class="mbm-notifications" id="NOTIFICATION">
+                    <!-- Notification Content -->
+                    <li class="read">
+                        <a href="#">
+                            <span class="message">
+                                Lorem ipsum dolor sit amet
+                            </span>
+                            <span class="time">
+                                January 21, 2012
+                            </span>
+                        </a>
+                    </li>
+                    <li class="unread">
+                        <a href="#">
+                            <span class="message">
+                                Lorem ipsum dolor sit amet
+                            </span>
+                            <span class="time">
+                                January 21, 2012
+                            </span>
+                        </a>
+                    </li>
+                    <li class="unread">
+                        <a href="#">
+                            <span class="message">
+                                Lorem ipsum dolor sit amet
+                            </span>
+                            <span class="time">
+                                January 21, 2012
+                            </span>
+                        </a>
+                    </li>
+                    <!-- End Notification Content -->
+
+                </ul>
+                <div class="mbm-dropdown-viewall">
+                    <a href="#">View All Notifications</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- User Messages -->
+    <div id="mbm-user-message" class="mbm-dropdown-menu">
+        <a href="#" class="mbm-icon icon-24-message mbm-dropdown-trigger">Messages</a>
+        <span class="mbm-dropdown-notif" id="USERMESSAGES_TOTAL">-</span>
+        <div class="mbm-dropdown-box">
+            <div class="mbm-dropdown-content">
+                <ul class="mbm-messages" id="USERMESSAGES">
+
+                    <!-- Message Content -->
+                    <li class="read">
+                        <a href="#">
+                            <span class="sender">BATMUNKH Moltov</span>
+                            <span class="message">
+                                Lorem ipsum dolor sit amet
+                            </span>
+                            <span class="time">
+                                January 21, 2012
+                            </span>
+                        </a>
+                    </li>
+                    <li class="unread">
+                        <a href="#">
+                            <span class="sender">BATMUNKH Moltov</span>
+                            <span class="message">
+                                Lorem ipsum dolor sit amet
+                            </span>
+                            <span class="time">
+                                January 21, 2012
+                            </span>
+                        </a>
+                    </li>
+                    <li class="unread">
+                        <a href="#">
+                            <span class="sender">BATMUNKH Moltov</span>
+                            <span class="message">
+                                Lorem ipsum dolor sit amet
+                            </span>
+                            <span class="time">
+                                January 21, 2012
+                            </span>
+                        </a>
+                    </li>
+                    <li class="unread">
+                        <a href="#">
+                            <span class="sender">BATMUNKH Moltov</span>
+                            <span class="message">
+                                Lorem ipsum dolor sit amet
+                            </span>
+                            <span class="time">
+                                January 21, 2012
+                            </span>
+                        </a>
+                    </li>
+                    <!-- End Messages -->
+
+                </ul>
+                <div class="mbm-dropdown-viewall">
+                    <a href="#">View All Messages</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- User Functions -->
+    <div id="mbm-user-info" class="mbm-inset">
+        <div id="mbm-user-photo">
+            <img src="/images/logos/mnglogo195x195.jpg" alt="User Photo" />
+        </div>
+        <div id="mbm-user-functions">
+            <div id="mbm-username">
+                Hello, BATMUNKH Moltov
+            </div>
+            <ul>
+                <li><a href="#">Profile</a></li>
+                <li><a href="#">Change Password</a></li>
+                <li><a href="index-2.html">Logout</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- End User Functions -->
+
+</div>
+</div>
+<script type="text/javascript">
+$(function(){    
+    /* Message & Notifications Dropdown */
+    $("div#mbm-user-tools .mbm-dropdown-menu a").click(function(event) {
+        $(".mbm-dropdown-menu.toggled").not($(this).parent()).removeClass("toggled");
+        $(this).parent().toggleClass("toggled");
+        event.preventDefault();
+    });
+        
+    $('html').click(function(event) {
+        if($(event.target).parents('.mbm-dropdown-menu').size() == 0) {
+            $(".mbm-dropdown-menu").removeClass("toggled");
+        }
+    });
+    
+    $('#NOTIFICATION_TOTAL').html($('#NOTIFICATION .unread').length);
+    $('#USERMESSAGES_TOTAL').html($('#USERMESSAGES .unread').length);
+    
+ });
+</script>

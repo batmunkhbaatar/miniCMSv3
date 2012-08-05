@@ -1,0 +1,25 @@
+div#mbm-error-container
+{
+	width:640px;
+	margin:auto;
+	padding-top:32px;
+	background:url(../../images/admin/error-bg.png) no-repeat center top;
+}
+
+div#mbm-error-container h1#mbm-error-code
+{
+	color:#f0f0f0;
+	font-size:40px;
+	text-align:center;
+	margin-bottom:64px;
+}
+
+div#mbm-error-container h1#mbm-error-code span
+{
+	font-size:72px;
+}
+
+div#mbm-error-container p
+{
+	text-align:center;
+}

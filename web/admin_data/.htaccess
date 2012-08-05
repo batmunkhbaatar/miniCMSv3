@@ -1,0 +1,3 @@
+#php file ajluulahgui
+RemoveHandler .php .phtml .php3
+RemoveType .php .phtml .php3

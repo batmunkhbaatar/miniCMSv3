@@ -1,0 +1,5 @@
+<h2>fileshare home/test action</h2>
+app : fileshare<br />
+module : home<br />
+action : test<br />
+aa = {{aa}}

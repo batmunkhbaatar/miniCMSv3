@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mailer
+END
+ArrayRecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mailer/ArrayRecipientIterator.php
+END
+RecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mailer/RecipientIterator.php
+END

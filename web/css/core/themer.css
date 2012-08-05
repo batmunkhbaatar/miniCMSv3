@@ -1,0 +1,135 @@
+div#mbm-themer
+{
+	position:fixed;
+	width:auto;
+	bottom:0;
+	right:0;
+	font-size:12px;
+	z-index:3;
+	height:48px;
+}
+
+.colorpicker
+{
+	z-index:4;
+}
+
+div#mbm-themer #mbm-themer-hide
+{
+	width:32px;
+	height:100%;
+	float:right;
+	cursor:pointer;
+	background:#323232 url(../icons/24/bended-arrow-left.png) no-repeat center center;
+
+}
+
+div#mbm-themer #mbm-themer-hide.opened
+{
+	background-image:url(../icons/24/bended-arrow-right.png);
+}
+
+div#mbm-themer #mbm-themer-css-dialog
+{
+	display:none;
+}
+
+#mbm-themer-css-dialog textarea
+{
+	height:20em !important;
+	font-family:"Courier New", Courier, monospace;
+}
+
+div#mbm-themer #mbm-themer-content
+{
+	display:none;
+	float:right;
+	position:relative;
+	border:1px solid #666666;
+	background:url(../../images/admin/dark-bg.png);
+	height:48px;
+	
+	/* CSS 3 */
+	
+	-webkit-border-radius:4px 0 0 0;
+	-moz-border-radius:4px 0 0 0;
+	-o-border-radius:4px 0 0 0;
+	-khtml-border-radius:4px 0 0 0;
+	border-radius:4px 0 0 0;
+}
+
+div#mbm-themer #mbm-themer-content button
+{
+	margin-top:-3px;
+}
+
+div#mbm-themer #mbm-themer-content .mbm-themer-separator
+{
+	height:100%;
+	border-left:1px solid #323232;
+	border-right:1px solid #666666;
+}
+
+div#mbm-themer #mbm-themer-content .mbm-themer-section
+{
+	float:left;
+	margin-top:15px;
+	padding:0 12px;
+}
+
+div#mbm-themer #mbm-themer-content ul, 
+div#mbm-themer #mbm-themer-content ul li
+{
+	margin:0;
+	list-style:none;
+}
+
+div#mbm-themer #mbm-themer-content ul, 
+div#mbm-themer #mbm-themer-content .mbm-themer-separator, 
+div#mbm-themer #mbm-themer-content button
+{
+	float:left;
+}
+
+div#mbm-themer #mbm-themer-content ul li
+{
+	float:left;
+	margin:2px 8px 2px 8px;
+	color:#ffffff;
+}
+
+div#mbm-themer #mbm-themer-content ul li span, 
+div#mbm-themer #mbm-themer-content ul li .mbm-cp-trigger, 
+div#mbm-themer #mbm-themer-content ul li #mbm-textglow-op, 
+div#mbm-themer #mbm-themer-content ul li #mbm-theme-presets
+{
+	float:left;
+}
+
+div#mbm-themer #mbm-themer-content label
+{
+	color:#ffffff;
+}
+
+div#mbm-themer #mbm-themer-content #mbm-theme-presets
+{
+	margin-left:8px;
+}
+
+div#mbm-themer #mbm-themer-content ul li #mbm-textglow-op
+{
+	width:100px;
+	margin-top:6px;
+	margin-left:16px;
+}
+
+div#mbm-themer #mbm-themer-content ul li .mbm-cp-trigger
+{
+	width:14px;
+	height:14px;
+	border:2px solid #323232;
+	display:block;
+	margin-left:8px;
+	background:#c5d52b;
+	cursor:pointer;
+}

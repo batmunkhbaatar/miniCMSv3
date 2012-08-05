@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Proxy
+END
+ProxyFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Proxy/ProxyFactory.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Proxy/Autoloader.php
+END
+ProxyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Proxy/ProxyException.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Proxy/Proxy.php
+END

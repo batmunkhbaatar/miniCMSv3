@@ -1,0 +1,10 @@
+RewriteEngine on
+
+#URL deerees shidne
+RewriteCond %{REQUEST_URI} !^(.+\.(flv|f4v|m4v|mov|swf|mp3|css|js|gif|jpg|png|swf))$
+
+#file bgaa esehiig shalgana
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#NC n tom jijig usgiin hamaaralgui bolgono
+RewriteRule ^(.*)$  /index.php?$1 [NC,L]

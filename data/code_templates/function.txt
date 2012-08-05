@@ -1,0 +1,10 @@
+/**
+* undsen tohirgoo hiih
+* @param $config
+* @return null
+*/
+public function ClassName($config) {
+
+    $this->initConfig($config);
+    $this->GET = $this->setGetQuery($_SERVER ['QUERY_STRING']);
+}

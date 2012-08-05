@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types
+END
+DateTimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/DateTimeType.php
+END
+IntegerType.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/IntegerType.php
+END
+TimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/TimeType.php
+END
+DecimalType.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/DecimalType.php
+END
+ConversionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/ConversionException.php
+END
+FloatType.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/FloatType.php
+END
+VarDateTimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/VarDateTimeType.php
+END
+StringType.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/StringType.php
+END
+ObjectType.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/ObjectType.php
+END
+DateTimeTzType.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/DateTimeTzType.php
+END
+BigIntType.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/BigIntType.php
+END
+DateType.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/DateType.php
+END
+BlobType.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/BlobType.php
+END
+ArrayType.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/ArrayType.php
+END
+BooleanType.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/BooleanType.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/Type.php
+END
+SmallIntType.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/SmallIntType.php
+END
+TextType.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Types/TextType.php
+END

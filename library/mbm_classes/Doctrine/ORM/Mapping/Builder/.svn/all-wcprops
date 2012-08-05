@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Builder
+END
+FieldBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Builder/FieldBuilder.php
+END
+ClassMetadataBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Builder/ClassMetadataBuilder.php
+END
+OneToManyAssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Builder/OneToManyAssociationBuilder.php
+END
+ManyToManyAssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Builder/ManyToManyAssociationBuilder.php
+END
+AssociationBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Builder/AssociationBuilder.php
+END

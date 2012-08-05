@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Query
+END
+QueryBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Query/QueryBuilder.php
+END
+QueryException.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Query/QueryException.php
+END

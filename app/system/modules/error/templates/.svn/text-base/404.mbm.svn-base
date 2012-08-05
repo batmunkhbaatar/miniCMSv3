@@ -1,0 +1,8 @@
+404 page<br />
+app: {{app}}<br />
+module: {{module}}<br />
+action: {{action}}
+<br />
+<br />
+$_GET['a'] g test helbereer hevelne.<br />
+$_GET['a'] = {{a}}

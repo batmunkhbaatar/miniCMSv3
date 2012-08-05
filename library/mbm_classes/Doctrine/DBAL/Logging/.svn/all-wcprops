@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Logging
+END
+DebugStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Logging/DebugStack.php
+END
+EchoSQLLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Logging/EchoSQLLogger.php
+END
+SQLLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Logging/SQLLogger.php
+END
+LoggerChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Logging/LoggerChain.php
+END

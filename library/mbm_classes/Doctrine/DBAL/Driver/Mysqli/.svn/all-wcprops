@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/Mysqli
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/Mysqli/Driver.php
+END
+MysqliException.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/Mysqli/MysqliException.php
+END
+MysqliConnection.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/Mysqli/MysqliConnection.php
+END
+MysqliStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/Mysqli/MysqliStatement.php
+END

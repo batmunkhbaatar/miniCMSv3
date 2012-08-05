@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache
+END
+MemcachedCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/MemcachedCache.php
+END
+CacheProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/CacheProvider.php
+END
+ZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/ZendDataCache.php
+END
+XcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/XcacheCache.php
+END
+ArrayCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/ArrayCache.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/Cache.php
+END
+WinCacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/WinCacheCache.php
+END
+MemcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/MemcacheCache.php
+END
+ApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Cache/ApcCache.php
+END

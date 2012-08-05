@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Plugins/Loggers
+END
+ArrayLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Plugins/Loggers/ArrayLogger.php
+END
+EchoLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Plugins/Loggers/EchoLogger.php
+END

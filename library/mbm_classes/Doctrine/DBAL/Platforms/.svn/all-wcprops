@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms
+END
+MySqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/MySqlPlatform.php
+END
+OraclePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/OraclePlatform.php
+END
+SQLServerPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/SQLServerPlatform.php
+END
+DB2Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/DB2Platform.php
+END
+SQLServer2005Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/SQLServer2005Platform.php
+END
+SQLServer2008Platform.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/SQLServer2008Platform.php
+END
+SqlitePlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/SqlitePlatform.php
+END
+AbstractPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/AbstractPlatform.php
+END
+PostgreSqlPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/PostgreSqlPlatform.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/Listeners
+END
+MysqlSessionInit.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/Listeners/MysqlSessionInit.php
+END
+OracleSessionInit.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/Listeners/OracleSessionInit.php
+END
+SQLSessionInit.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/Listeners/SQLSessionInit.php
+END

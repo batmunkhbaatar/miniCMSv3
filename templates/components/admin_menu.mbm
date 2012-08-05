@@ -1,0 +1,86 @@
+{{ lang.title2 }}
+<!-- Main Navigation -->
+<div id="mbm-navigation">
+    <div class="mbm-admin-menu">
+        <h3><a href="#">{{ lang.Content_Management }}</a></h3>
+        <div>
+            <a href="#">aaa sdf asd fasd fasd fdsafasd fasd fsad af das f</a>
+            <a href="#">{{ lang.cm_menu1 }}</a>
+            <a href="#">aa</a>
+            <a href="#">aa</a>
+            <a href="#">aa</a>
+        </div>
+        <h3><a href="#">{{ lang.Applications }}</a></h3>
+        <div>
+            <?php echo link_to('','#');?>
+        </div>
+        <h3><a href="#">{{ lang.Members }}</a></h3>
+        <div>
+            <a href="#">All members</a>
+            <a href="#">Member groups</a>
+            <a href="#">Permissions</a>
+            <a href="#">Track user</a>
+            <a href="#">aa</a>
+        </div>
+        <h3><a href="#">{{ lang.Components }}</a></h3>
+        <div>
+            <p>
+                Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
+            </p>
+            <ul>
+                <li>List item one</li>
+                <li>List item two</li>
+                <li>List item three</li>
+            </ul>
+        </div>
+        <h3><a href="#">{{ lang.Plugins }}</a></h3>
+        <div>
+            <p>
+                Cras dictum. Pellentesque habitant morbi tristique senectus et netus
+            </p>
+            <p>
+                Suspendisse eu nisl. Nullam ut libero. Integer dignissim consequat lectus.
+            </p>
+        </div>
+        <h3><a href="#">{{ lang.System }}</a></h3>
+        <div>
+            <a href="#">Email settings</a>
+            <a href="#">Automation</a>
+            <a href="#">Main configuration</a>
+            <a href="#">Cronjobs</a>
+            <a href="#">Log</a>
+        </div>
+        <h3><a href="#">{{ lang.Firewall_IPS_IDS }}</a></h3>
+        <div>
+            <a href="#">Ignore list</a>
+            <a href="#">Block list</a>
+            <a href="#">IP tracking</a>
+            <a href="#">Configuration</a>
+            <a href="#">aa</a>
+        </div>
+        <h3><a href="#">{{ lang.Documentation }}</a></h3>
+        <div class="ui-accordion-content-active">
+            <a href="#">Developer guide</a>
+            <a href="#">Designer guide</a>
+            <a href="#">Administration guide</a>
+            <a href="#">About</a>
+        </div>
+    </div>
+</div>
+<!-- End Navigation -->
+<script>
+    $(function(){
+        $('.mbm-admin-menu').accordion();
+    
+        /* Side dropdown menu */
+        $("div#mbm-navigation ul li a, div#mbm-navigation ul li span")
+        .bind('click', function(event) {
+            if($(this).next('ul').size() !== 0) {
+                $(this).next('ul').slideToggle('fast', function() {
+                    $(this).toggleClass('closed');
+                });
+                event.preventDefault();
+            }
+        });
+    });
+</script>

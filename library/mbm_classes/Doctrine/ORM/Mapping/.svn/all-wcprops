@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping
+END
+InheritanceType.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/InheritanceType.php
+END
+HasLifecycleCallbacks.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/HasLifecycleCallbacks.php
+END
+Id.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Id.php
+END
+ColumnResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ColumnResult.php
+END
+NamingStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/NamingStrategy.php
+END
+CustomIdGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/CustomIdGenerator.php
+END
+AssociationOverrides.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/AssociationOverrides.php
+END
+PostPersist.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PostPersist.php
+END
+JoinColumns.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/JoinColumns.php
+END
+PrePersist.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PrePersist.php
+END
+DefaultNamingStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/DefaultNamingStrategy.php
+END
+PostRemove.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PostRemove.php
+END
+ElementCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ElementCollection.php
+END
+DiscriminatorMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/DiscriminatorMap.php
+END
+OrderBy.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/OrderBy.php
+END
+ClassMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ClassMetadata.php
+END
+Index.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Index.php
+END
+ManyToOne.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ManyToOne.php
+END
+OneToMany.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/OneToMany.php
+END
+Annotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Annotation.php
+END
+MappingException.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/MappingException.php
+END
+Entity.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Entity.php
+END
+JoinColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/JoinColumn.php
+END
+FieldResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/FieldResult.php
+END
+NamedQueries.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/NamedQueries.php
+END
+PostLoad.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PostLoad.php
+END
+AttributeOverrides.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/AttributeOverrides.php
+END
+OneToOne.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/OneToOne.php
+END
+SqlResultSetMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/SqlResultSetMapping.php
+END
+UnderscoreNamingStrategy.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/UnderscoreNamingStrategy.php
+END
+PreFlush.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PreFlush.php
+END
+ChangeTrackingPolicy.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ChangeTrackingPolicy.php
+END
+NamedNativeQueries.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/NamedNativeQueries.php
+END
+PreUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PreUpdate.php
+END
+GeneratedValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/GeneratedValue.php
+END
+ManyToMany.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ManyToMany.php
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Column.php
+END
+ClassMetadataFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ClassMetadataFactory.php
+END
+AttributeOverride.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/AttributeOverride.php
+END
+PreRemove.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PreRemove.php
+END
+JoinTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/JoinTable.php
+END
+SqlResultSetMappings.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/SqlResultSetMappings.php
+END
+NamedQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/NamedQuery.php
+END
+MappedSuperclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/MappedSuperclass.php
+END
+EntityResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/EntityResult.php
+END
+UniqueConstraint.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/UniqueConstraint.php
+END
+AssociationOverride.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/AssociationOverride.php
+END
+SequenceGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/SequenceGenerator.php
+END
+NamedNativeQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/NamedNativeQuery.php
+END
+ClassMetadataInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/ClassMetadataInfo.php
+END
+DiscriminatorColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/DiscriminatorColumn.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Version.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/Table.php
+END
+PostUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Mapping/PostUpdate.php
+END

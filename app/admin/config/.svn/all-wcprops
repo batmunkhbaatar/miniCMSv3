@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/miniCMSv3/!svn/ver/29/app/admin/config
+END
+config.security.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/miniCMSv3/!svn/ver/18/app/admin/config/config.security.php
+END
+config.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/miniCMSv3/!svn/ver/27/app/admin/config/config.view.php
+END
+config.main.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/miniCMSv3/!svn/ver/29/app/admin/config/config.main.php
+END

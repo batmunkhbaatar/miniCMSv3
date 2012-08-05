@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/Esmtp
+END
+Authenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/Esmtp/Authenticator.php
+END
+AuthHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/Esmtp/AuthHandler.php
+END

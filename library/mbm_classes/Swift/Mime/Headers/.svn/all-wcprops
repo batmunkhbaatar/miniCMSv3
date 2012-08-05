@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers
+END
+AbstractHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers/AbstractHeader.php
+END
+UnstructuredHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers/UnstructuredHeader.php
+END
+IdentificationHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers/IdentificationHeader.php
+END
+MailboxHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers/MailboxHeader.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers/ParameterizedHeader.php
+END
+PathHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers/PathHeader.php
+END
+DateHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Headers/DateHeader.php
+END

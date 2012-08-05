@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event
+END
+SchemaCreateTableColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaCreateTableColumnEventArgs.php
+END
+SchemaAlterTableRemoveColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaAlterTableRemoveColumnEventArgs.php
+END
+SchemaCreateTableEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaCreateTableEventArgs.php
+END
+SchemaDropTableEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaDropTableEventArgs.php
+END
+ConnectionEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/ConnectionEventArgs.php
+END
+SchemaAlterTableEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaAlterTableEventArgs.php
+END
+SchemaEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaEventArgs.php
+END
+SchemaIndexDefinitionEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaIndexDefinitionEventArgs.php
+END
+SchemaAlterTableChangeColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaAlterTableChangeColumnEventArgs.php
+END
+SchemaAlterTableRenameColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaAlterTableRenameColumnEventArgs.php
+END
+SchemaAlterTableAddColumnEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaAlterTableAddColumnEventArgs.php
+END
+SchemaColumnDefinitionEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Event/SchemaColumnDefinitionEventArgs.php
+END

@@ -1,0 +1,50 @@
+<h2>test action</h2>
+test action
+
+<br />
+APP_MEDIA_DIR - {{k}}
+<hr />
+{{app}}-<br >
+{{module}}-<br >
+{{action}}-<br >
+{{a}}-<br >
+
+<hr />
+{% for bb,v in a %}
+    {{bb}}-{{bb.b.cc}}-{{v}}
+    {{bb[0]}}
+    <br />
+{% endfor %}
+<hr />
+{% for k in a|keys %}
+    ({{k}})
+    {% for kk,vv in a.k %}
+        ....{{k}} - 
+        {{vv}}
+        <br />
+    {% endfor %}
+    <br />
+{% endfor %}
+<hr />
+{% for bb,v in a.b %}
+       {{v}}
+    {{bb[0]}}
+    <br />
+{% endfor %}
+
+
+
+
+
+
+
+<div class="mbm-panel grid_5">
+    <div class="mbm-panel-header">
+        <span class="mbm-i-24 i-graph">Charts</span>
+    </div>
+    <div class="mbm-panel-body">
+        <div class="mbm-panel-content">
+            <div id="mbm-dashboard-chart" style="width:100%; height:215px;"></div>
+        </div>
+    </div>
+</div>

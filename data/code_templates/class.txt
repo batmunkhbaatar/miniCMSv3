@@ -1,0 +1,26 @@
+/*
+ *
+ * Application name: miniCMS
+ * Version : 3
+ * Author: BATMUNKH Moltov
+ * Email: admin@mng.cc
+ * Website: www.mng.cc 
+ * 
+ * miniCMS v3 is registered and copyrighted to BATMUNKH Moltov and it's not a free software. 
+ * If you wan to use miniCMS v3 then you need to buy your license from www.mng.cc web site. 
+ *
+ * <http://www.mng.cc>.
+ */
+
+class ClassName{
+    /**
+     * undsen tohirgoo hiih
+     * @param $config
+     * @return null
+     */
+    public function ClassName($config) {
+        
+        $this->initConfig($config);
+        $this->GET = $this->setGetQuery($_SERVER ['QUERY_STRING']);
+    }
+}

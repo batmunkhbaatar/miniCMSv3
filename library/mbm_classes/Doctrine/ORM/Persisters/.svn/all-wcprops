@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters
+END
+JoinedSubclassPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/JoinedSubclassPersister.php
+END
+UnionSubclassPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/UnionSubclassPersister.php
+END
+OneToManyPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/OneToManyPersister.php
+END
+SingleTablePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/SingleTablePersister.php
+END
+AbstractEntityInheritancePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/AbstractEntityInheritancePersister.php
+END
+ManyToManyPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/ManyToManyPersister.php
+END
+BasicEntityPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/BasicEntityPersister.php
+END
+AbstractCollectionPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/AbstractCollectionPersister.php
+END
+ElementCollectionPersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/ORM/Persisters/ElementCollectionPersister.php
+END

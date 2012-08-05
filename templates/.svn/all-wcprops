@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/miniCMSv3/!svn/ver/29/templates
+END
+empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/miniCMSv3/!svn/ver/23/templates/empty.php
+END
+fileshare.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/miniCMSv3/!svn/ver/23/templates/fileshare.php
+END
+default.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/miniCMSv3/!svn/ver/23/templates/default.php
+END
+404.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/miniCMSv3/!svn/ver/23/templates/404.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/miniCMSv3/!svn/ver/28/templates/admin.php
+END

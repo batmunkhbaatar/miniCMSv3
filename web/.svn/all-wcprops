@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/miniCMSv3/!svn/ver/29/web
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/miniCMSv3/!svn/ver/2/web/LICENSE.txt
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/miniCMSv3/!svn/ver/14/web/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/miniCMSv3/!svn/ver/27/web/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/miniCMSv3/!svn/ver/22/web/admin.php
+END

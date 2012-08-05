@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/PDOSqlsrv
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/PDOSqlsrv/Driver.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver/PDOSqlsrv/Connection.php
+END

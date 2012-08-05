@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords
+END
+SQLiteKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/SQLiteKeywords.php
+END
+PostgreSQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/PostgreSQLKeywords.php
+END
+MySQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/MySQLKeywords.php
+END
+OracleKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/OracleKeywords.php
+END
+ReservedKeywordsValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/ReservedKeywordsValidator.php
+END
+DB2Keywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/DB2Keywords.php
+END
+KeywordList.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/KeywordList.php
+END
+MsSQLKeywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Platforms/Keywords/MsSQLKeywords.php
+END

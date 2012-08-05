@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/miniCMSv3/!svn/ver/9/docs/3rdparty
+END
+doctrine-dbal.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/miniCMSv3/!svn/ver/6/docs/3rdparty/doctrine-dbal.pdf
+END
+Twig.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/miniCMSv3/!svn/ver/6/docs/3rdparty/Twig.pdf
+END
+Swiftmailer.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/miniCMSv3/!svn/ver/9/docs/3rdparty/Swiftmailer.pdf
+END

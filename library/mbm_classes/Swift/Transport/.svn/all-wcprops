@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport
+END
+SendmailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/SendmailTransport.php
+END
+SpoolTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/SpoolTransport.php
+END
+SimpleMailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/SimpleMailInvoker.php
+END
+MailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/MailTransport.php
+END
+MailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/MailInvoker.php
+END
+IoBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/IoBuffer.php
+END
+SmtpAgent.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/SmtpAgent.php
+END
+AbstractSmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/AbstractSmtpTransport.php
+END
+FailoverTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/FailoverTransport.php
+END
+EsmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/EsmtpTransport.php
+END
+StreamBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/StreamBuffer.php
+END
+EsmtpHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/EsmtpHandler.php
+END
+LoadBalancedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/LoadBalancedTransport.php
+END
+NullTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Transport/NullTransport.php
+END

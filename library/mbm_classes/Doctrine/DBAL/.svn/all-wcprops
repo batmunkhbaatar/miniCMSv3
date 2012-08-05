@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Driver.php
+END
+SQLParserUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/SQLParserUtils.php
+END
+LockMode.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/LockMode.php
+END
+ConnectionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/ConnectionException.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Connection.php
+END
+DBALException.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/DBALException.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Statement.php
+END
+Events.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Events.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Version.php
+END
+DriverManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/DriverManager.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/Configuration.php
+END
+README.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/DBAL/README.markdown
+END

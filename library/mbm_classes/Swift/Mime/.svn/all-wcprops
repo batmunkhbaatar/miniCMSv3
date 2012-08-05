@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/EmbeddedFile.php
+END
+SimpleHeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/SimpleHeaderFactory.php
+END
+EncodingObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/EncodingObserver.php
+END
+SimpleMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/SimpleMessage.php
+END
+SimpleMimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/SimpleMimeEntity.php
+END
+CharsetObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/CharsetObserver.php
+END
+HeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/HeaderSet.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/ParameterizedHeader.php
+END
+ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/ContentEncoder.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/MimePart.php
+END
+SimpleHeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/SimpleHeaderSet.php
+END
+HeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/HeaderFactory.php
+END
+MimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/MimeEntity.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Message.php
+END
+Grammar.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Grammar.php
+END
+HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/HeaderEncoder.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Header.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Swift/Mime/Attachment.php
+END

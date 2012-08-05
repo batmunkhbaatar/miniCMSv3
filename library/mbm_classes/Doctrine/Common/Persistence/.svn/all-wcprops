@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence
+END
+ObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/ObjectManager.php
+END
+ObjectManagerAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/ObjectManagerAware.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/Proxy.php
+END
+ManagerRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/ManagerRegistry.php
+END
+ObjectRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/ObjectRepository.php
+END
+AbstractManagerRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/AbstractManagerRegistry.php
+END
+PersistentObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/PersistentObject.php
+END
+ConnectionRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/miniCMSv3/!svn/ver/9/library/mbm_classes/Doctrine/Common/Persistence/ConnectionRegistry.php
+END
